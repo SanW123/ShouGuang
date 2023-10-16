@@ -1,6 +1,10 @@
 server:
   port: 8084
 spring:
+  devtools:
+    restart:
+      enabled: true
+      additional-paths: src/main/java
   application:
     name: ShouGuang
   datasource:
