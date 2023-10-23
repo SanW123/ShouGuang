@@ -20,8 +20,9 @@ mybatis-plus:
   global-config:
     db-config:
       id-type: ASSIGN_ID
-reggie:
-  path: E:\img\ShouGuang\
+ShouGuang:
+  path: C:\Users\YHW\WebstormProjects\react_shouguang\public\profile\
+
 
 
 
